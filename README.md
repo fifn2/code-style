@@ -1,2 +1,2 @@
 # code-style
-The airbnb-based eslint, prettier, and editorconfig files I use for my typescript projects.
+The airbnb-based eslint and prettier configuration files I use for my typescript projects.
